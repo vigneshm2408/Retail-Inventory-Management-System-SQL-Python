@@ -44,4 +44,4 @@ It manages customers, products, stock, purchases, and orders with real-time inve
 ![Menu](screenshots/Menu.png)
 
 ## 🔹 Conclusion
-This project demonstrates how SQL and Python can be combined to build a real-world business application.
+A complete retail inventory and billing system built using Python and MySQL.
