@@ -32,7 +32,16 @@ It manages customers, products, stock, purchases, and orders with real-time inve
 - End-to-end business flow implementation
 
 ## 🔹 Sample Output
-(Add screenshots here)
+## 🔹 Sample Output
+
+### 🧾 Billing Output
+![Billing](screenshots/Billing.png)
+
+### 📦 Stock View
+![Inventory](screenshots/Inventory.png)
+
+### 📋 Menu
+![Menu](screenshots/Menu.png)
 
 ## 🔹 Conclusion
 This project demonstrates how SQL and Python can be combined to build a real-world business application.
