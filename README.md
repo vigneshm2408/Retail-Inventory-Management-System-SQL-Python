@@ -32,7 +32,6 @@ It manages customers, products, stock, purchases, and orders with real-time inve
 - End-to-end business flow implementation
 
 ## 🔹 Sample Output
-## 🔹 Sample Output
 
 ### 🧾 Billing Output
 ![Billing](screenshots/Billing.png)
